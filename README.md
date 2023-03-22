@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - PhPManager for IIS
 - Rewrite Module  
-- 
+- PHP
 - 
 - 
 
@@ -59,10 +59,10 @@ In this step, I installed Rewrite Module, used to rewrite some URL's ;)
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N05z3Du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I downloaded a file named PHP with contents in it. The contents in this file I will unzip into a C/ directory that I created and name PHP. I will simply drag and drop the contents from the right, into the directory to the left.
 </p>
 <br />
 

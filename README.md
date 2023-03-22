@@ -23,8 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PhPManager for IIS
 - Rewrite Module  
 - PHP
-- 
-- 
+- VC_redist
+- MySQL
+- osTicket 
 
 <h2>Installation Steps</h2>
 
@@ -59,17 +60,33 @@ In this step, I installed Rewrite Module, used to rewrite some URL's ;)
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/N05z3Du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7TVIXAt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I downloaded a file named PHP with contents in it. The contents in this file I will unzip into a C/ directory that I created and name PHP. I will simply drag and drop the contents from the right, into the directory to the left.
+I downloaded a file named PHP with contents in it. The contents in this file I will unzip into a C/ directory that I created and name PHP. I will simply extract the contents from the right, into the directory to the left.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tFD77fE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+VC_redist is an installer for one of the redistributables.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/sSpkLhS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+MySQL, the second from last step needed, mySQL is simply just a database management system that I used for this lab. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zNrUblb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, osTIcket! The last prerequisite that needed to be installed to get everything up and running smoothly.
 </p>
 <br />
